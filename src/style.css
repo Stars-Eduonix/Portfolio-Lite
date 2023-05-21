@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    background-color: thistle;
+}
+
+.navbar a{
+    color: tomato;
+    margin-right: 5px;
+    font-size: larger;
+}
+
+.section h1{
+    text-align: center;
+    margin: 20px;
+}
+
+.section p{
+    font-size: larger;
+}
